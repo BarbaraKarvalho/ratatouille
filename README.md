@@ -1,2 +1,2 @@
 # ratatouille
-A simple project to search a meal given on some ingredients
+A simple project to search a meal given one or more ingredients
